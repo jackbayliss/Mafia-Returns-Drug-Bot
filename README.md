@@ -13,10 +13,10 @@ Created for use on https://mafiareturns.com
   * Jack Bayliss - Initial work
   
 ## Issues
-Sometimes the bot will hang on the IP address of the proxy, if this happens you may have to close and re-open it. If you experience something feel free to create an email.
+Sometimes the bot will hang on the IP address of the proxy, if this happens you may have to close and re-open it. If you experience something feel free to create an issue.
 
 ## Contributing
-If you'd like to add or change something, feel free and make a fork
+If you'd like to add or change something, feel free and make a fork.
 
 ## Todo
 1. Handle request timeouts
