@@ -1,4 +1,5 @@
 # Mafia Returns Drug Pricing Bot
+Created for use on https://mafiareturns.com
 
 ## How to use : 
 1. Install Python, ensure you have pip - if you're unsure Google it.
