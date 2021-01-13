@@ -1,3 +1,6 @@
+# Not maintained
+The repo is not maintained and was for fun-- don't use it as I dont regularly test it!
+
 # Mafia Returns Drug Pricing Bot
 Created for use on https://mafiareturns.com
 
